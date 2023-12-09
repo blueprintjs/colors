@@ -29,14 +29,8 @@
         "tslib": "~2.6.2"
     },
     "devDependencies": {
-        "blueprintjs-node-build-scripts": "workspace:^",
         "mocha": "^10.2.0",
         "typescript": "~5.2.2"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:palantir/blueprint.git",
-        "directory": "packages/colors"
     },
     "author": "Palantir Technologies",
     "license": "Apache-2.0"
